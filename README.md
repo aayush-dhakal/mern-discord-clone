@@ -1,6 +1,6 @@
 ## Description
 
-Discord clone with Node.js, React Js, MongoDb.
+Discord clone with Node.js, React Js, MongoDb, socket-io, WebRTC.
 Node version 16
 
 ## Run Locally
