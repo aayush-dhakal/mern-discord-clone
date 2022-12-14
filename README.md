@@ -8,3 +8,5 @@ Node version 16
 Clone the project then cd Frontend and Backend and run this command respectively
 
 ### `npm install`
+
+### Scrennshots
