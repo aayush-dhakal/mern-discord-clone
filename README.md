@@ -9,7 +9,7 @@ Clone the project then cd Frontend and Backend and run this command respectively
 
 ### `npm install`
 
-### Scrennshots
+### Screenshots
 
 ![Alt text](/screenshots/login-screen.png "Dashboard")
 ![Alt text](/screenshots/dashboard.png "Dashboard")
